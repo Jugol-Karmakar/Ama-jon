@@ -1,0 +1,19 @@
+.navbar {
+  height: 70px;
+  background-color: #1c2b35;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 140px;
+  align-items: center;
+}
+
+.menu a {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 17px;
+  margin-left: 32px;
+}
+
+.menu a:hover {
+  color: coral;
+}
