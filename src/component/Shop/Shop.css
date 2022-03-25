@@ -7,4 +7,21 @@
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 40px;
+  margin: 100px 50px;
+}
+
+.cart-container {
+  background-color: #ff990083;
+}
+
+.order-summary {
+  text-align: center;
+  margin-top: 25px;
+}
+.order-info {
+  margin: 50px 20px;
+  color: #2a414f;
+  font-size: 17px;
+  font-weight: 500;
+  padding-right: 15px;
 }
